@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba del modulo II del prepcourse de Henry.
+Este proyecto es una prueba de como crear un repositorio y como clonarlo de githun a mi coputadora local.
